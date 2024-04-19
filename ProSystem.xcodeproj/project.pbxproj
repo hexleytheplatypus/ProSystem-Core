@@ -53,7 +53,6 @@
 		87664D122956D3C70009C5C1 /* md5.c in Sources */ = {isa = PBXBuildFile; fileRef = 87664CFF2956D3C70009C5C1 /* md5.c */; };
 		87664D142956D46E0009C5C1 /* ProSystem.dat in Resources */ = {isa = PBXBuildFile; fileRef = 87664D132956D46D0009C5C1 /* ProSystem.dat */; };
 		8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
-		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
 		941DFB2715B6425200C6552F /* ProSystemGameCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 941DFB2615B6425200C6552F /* ProSystemGameCore.m */; };
 		941F59DC17A62ADD0005D7EA /* OpenEmuBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 941F59DB17A62ADD0005D7EA /* OpenEmuBase.framework */; };
 /* End PBXBuildFile section */
@@ -142,7 +141,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				941F59DC17A62ADD0005D7EA /* OpenEmuBase.framework in Frameworks */,
-				8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */,
 				82EC409F0FD9EC420017FC19 /* libz.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
